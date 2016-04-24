@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ImageGallery</string>
+    <string name="action_settings">Settings</string>
+    <string name="netowrk_gallery">Network Gallery Activity</string>
+    <string name="sd_card_gallery">SD Card Gallery Activity</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+</resources>
